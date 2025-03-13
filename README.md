@@ -1,7 +1,7 @@
-##Data Science Project2-Car Price Prediction
+PREDICTING CAR PRICES USING DATA SCIENCE
 
 
-#Data Acquisition:
+Data Acquisition:
 The dataset, containing car-related features (like brand, model, mileage, etc.), is loaded from a CSV file.
 
 Data Exploration:
